@@ -64711,7 +64711,7 @@ var $async$n0=A.T(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:p=4
 n="Faridabad,IN"
 s=7
-return A.W(A.asr(A.f5("https://cors-anywhere.herokuapp.com/http://api.openweathermap.org/data/2.5/forecast?q="+A.f(n)+"&APPID=486a0e10a205ca0b1b92fa3cc72578fa")),$async$n0)
+return A.W(A.asr(A.f5("http://api.openweathermap.org/data/2.5/forecast?q="+A.f(n)+"&APPID=486a0e10a205ca0b1b92fa3cc72578fa")),$async$n0)
 case 7:m=b
 j=m
 l=B.cf.IH(A.asd(A.aqj(j.e).c.a.j(0,"charset")).dR(j.w),null)
