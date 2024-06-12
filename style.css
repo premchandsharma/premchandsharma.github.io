@@ -4,8 +4,12 @@
 }
 h2{
     margin-bottom: 20px;
+    color: white;
 }
 #update{
     color: rgb(108, 108, 108);
     margin-top: 100px;
+}
+p{
+    color: white;
 }
